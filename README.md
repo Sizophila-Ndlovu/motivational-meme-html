@@ -1,2 +1,2 @@
-# motivational-meme-html
+# motivational-meme
 Just a motivational meme
